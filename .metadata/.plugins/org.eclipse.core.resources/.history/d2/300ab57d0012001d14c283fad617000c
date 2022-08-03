@@ -1,0 +1,5 @@
+package br.fiap.venda;
+
+public class Venda {
+
+}

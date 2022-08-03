@@ -1,0 +1,14 @@
+package br.fiap.venda;
+
+import br.fiap.funcionario.Funcionario;
+
+public class Venda {
+	private Funcionario funcionario;
+	private double valor;
+	
+	public Venda(Funcionario funcionario, double valor) {
+		super();
+		this.funcionario = funcionario;
+		this.valor = valor;
+	}
+}

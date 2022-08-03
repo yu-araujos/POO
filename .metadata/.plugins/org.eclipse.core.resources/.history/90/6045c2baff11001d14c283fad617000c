@@ -1,0 +1,11 @@
+package br.fiap.funcionario;
+
+import br.fiap.cargo.Cargo;
+
+public class Funcionario {
+	private String nome;
+	private double salario;
+	private Cargo cargo;
+	
+	
+}

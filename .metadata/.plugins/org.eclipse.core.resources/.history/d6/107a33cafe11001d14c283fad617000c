@@ -1,0 +1,5 @@
+package br.fiap.cargo;
+
+public enum Cargo {
+	
+}

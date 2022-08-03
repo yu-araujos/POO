@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Oxyur\Documents\Códigos de Alta Perfomance\ProgamaçãoOrientadaAObjeto\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2532107562.index
+1419308676.index

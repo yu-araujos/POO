@@ -1,0 +1,5 @@
+package br.fiap.funcionario;
+
+public class Funcionario {
+
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="br.fiap.cargo.Cargo"/>
+    <fullyQualifiedTypeName name="br.fiap.funcionario.Funcionario"/>
+    <fullyQualifiedTypeName name="br.fiap.venda.Venda"/>
+</qualifiedTypeNameHistroy>
